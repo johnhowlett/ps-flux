@@ -74,19 +74,9 @@
       "id": 11,
       "slug": "das-ist-der-title",
       "title": "Das ist der Title",
-      "autherId": null,
+      "authorId": 1,
       "category": "HTML",
-      "authorId": 1,
-      "createdAt": 1568737148974
-    },
-    {
-      "id": 12,
-      "slug": "sfsfsfs",
-      "title": "sfsfsfs",
-      "autherId": null,
-      "category": "sfsfwefwefwf",
-      "authorId": 1,
-      "createdAt": 1568739807724
+      "createdAt": 1569069070443
     }
   ],
   "authors": [

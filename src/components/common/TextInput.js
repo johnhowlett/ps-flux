@@ -2,8 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 function TextInput(props) {
-  // if the form has a error add Bootstrap Class "has-error"
-  let wrapperClass = "forms-group";
+  let wrapperClass = "form-group";
   if (props.error.length > 0) {
     wrapperClass += " has-error";
   }

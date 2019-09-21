@@ -8,8 +8,8 @@ function CourseForm(props) {
       <TextInput
         id="title"
         label="Title"
-        name="title"
         onChange={props.onChange}
+        name="title"
         value={props.course.title}
         error={props.errors.title}
       />
